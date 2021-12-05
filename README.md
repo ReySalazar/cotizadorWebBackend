@@ -1,6 +1,6 @@
 ## Aplicación: CotizadorWeb
 
-###Instalación 
+### Instalación 
 
 Se necesita tener instalado la última versión de NODE
 
@@ -10,7 +10,7 @@ Ejecutar:
 
 npm run dev
 
-###Descripción
+### Descripción
 
 Backend construido con Node, Express y Cors(middleware para comunicar con el front), al cual se le hacen peticiones de distancia y clima
 
